@@ -1,6 +1,6 @@
 # Leetcode programming practice
 
-try to update every learning day :smiley:
+:boxing_glove: :boxing_glove: try to update every learning day :smiley:
 
 > 01/06/2022
 
